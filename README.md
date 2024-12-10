@@ -29,13 +29,7 @@ This is the backend of a simple CRUD (Create, Read, Update, Delete) application 
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd crud-application
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    npm install
    ```
